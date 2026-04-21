@@ -51,18 +51,11 @@ Fast fashion has serious environmental and social consequences. The project sugg
 - Reducing overconsumption  
 - Supporting ethical brands  
 - Promoting recycling and reuse  
-
 ---
-
-## 🚀 Future Improvements
-- Use Python for advanced data analysis  
-- Build interactive dashboards  
-- Include more real-time datasets  
-
 
 SHANIYA C SHEREEF
 DATA ANALYST
 
 ## 🔗 Connect with Me
-- LinkedIn: [Your LinkedIn Link]
-- GitHub: [Your GitHub Profile Link]
+- LinkedIn: https://www.linkedin.com/in/shaniya-shereef
+- GitHub: https://github.com/shaniyashereef
